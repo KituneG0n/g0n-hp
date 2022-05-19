@@ -25,6 +25,10 @@ img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
 table {border-collapse:collapse;font-size: 100%;border-spacing: 0;}
 iframe {width: 100%;}
 
+html{
+  scroll-behavior: smooth;
+}
+
 @keyframes opa1 {
 0% {opacity: 0;}
 100% {opacity: 1;}
