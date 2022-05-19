@@ -47,7 +47,7 @@ header {
 	height: 100%;
 	overflow: auto;
 	position: relative;
-	background: url(mainimg.jpg) no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url(./mainimg.jpg) no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 /*ロゴ画像*/
 header #logo img {
